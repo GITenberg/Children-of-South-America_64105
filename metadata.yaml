@@ -1,11 +1,16 @@
 _repo: Children-of-South-America_64105
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64105-h/images/cover.jpg
 creator:
   author:
     agent_name: Hodge, Katharine A.
     gutenberg_agent_id: '52752'
     url: http://www.gutenberg.org/2009/agents/52752
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64105#Children-of-South-America
 gutenberg_issued: '2020-12-22'
 gutenberg_type: Text
 identifiers:
